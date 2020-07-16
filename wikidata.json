@@ -1,1 +1,314 @@
-[]
+[
+  {
+    "item": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "replacedBy": {
+      "value": "Q4476097",
+      "label": "Joe Walding"
+    },
+    "statement": "Q5314460$51A968F3-0186-42AA-9180-FF4304F5422F",
+    "ordinal": "1",
+    "start": "1972-02-09T00:00:00Z",
+    "end": "1972-12-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4476097",
+      "label": "Joe Walding"
+    },
+    "replaces": {
+      "value": "Q5314460",
+      "label": "Duncan MacIntyre"
+    },
+    "replacedBy": {
+      "value": "Q1583625",
+      "label": "Whetu Tirikatene-Sullivan"
+    },
+    "statement": "Q4476097$F66D7A80-E381-4C75-8FA8-C6096E1EEA64",
+    "ordinal": "2",
+    "start": "1972-12-08T00:00:00Z",
+    "end": "1974-09-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1583625",
+      "label": "Whetu Tirikatene-Sullivan"
+    },
+    "replaces": {
+      "value": "Q4476097",
+      "label": "Joe Walding"
+    },
+    "replacedBy": {
+      "value": "Q7920127",
+      "label": "Venn Young"
+    },
+    "statement": "Q1583625$F57F68B5-4D7A-426B-9E20-8042EEDB015B",
+    "ordinal": "3",
+    "start": "1974-09-10T00:00:00Z",
+    "end": "1975-12-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7920127",
+      "label": "Venn Young"
+    },
+    "replaces": {
+      "value": "Q1583625",
+      "label": "Whetu Tirikatene-Sullivan"
+    },
+    "replacedBy": {
+      "value": "Q5239979",
+      "label": "David Spence Thomson"
+    },
+    "statement": "Q7920127$F3727301-9496-4204-B8A8-A40821D5CF6C",
+    "ordinal": "4",
+    "start": "1975-12-12T00:00:00Z",
+    "end": "1981-02-12T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5239979",
+      "label": "David Spence Thomson"
+    },
+    "replaces": {
+      "value": "Q7920127",
+      "label": "Venn Young"
+    },
+    "replacedBy": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "statement": "Q5239979$F601B74F-9B5F-4405-9BDB-34A5ADA4BBD9",
+    "ordinal": "5",
+    "start": "1981-02-12T00:00:00Z",
+    "end": "1984-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "replaces": {
+      "value": "Q5239979",
+      "label": "David Spence Thomson"
+    },
+    "replacedBy": {
+      "value": "Q597909",
+      "label": "Phil Goff"
+    },
+    "statement": "Q2176939$3D39BC74-69FD-41CB-8682-9AC617CC9AE3",
+    "ordinal": "6",
+    "start": "1984-07-26T00:00:00Z",
+    "end": "1986-02-17T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q597909",
+      "label": "Phil Goff"
+    },
+    "replaces": {
+      "value": "Q2176939",
+      "label": "Russell Marshall"
+    },
+    "replacedBy": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "statement": "Q597909$2A490439-236A-4B37-A334-0D12745C2981",
+    "ordinal": "7",
+    "start": "1986-02-17T00:00:00Z",
+    "end": "1987-08-24T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replaces": {
+      "value": "Q597909",
+      "label": "Phil Goff"
+    },
+    "replacedBy": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "statement": "Q1385100$6A0A4772-AA91-40F5-B76D-4EB97991C9DC",
+    "ordinal": "8",
+    "start": "1987-08-24T00:00:00Z",
+    "end": "1990-11-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "replaces": {
+      "value": "Q1385100",
+      "label": "Geoffrey Palmer"
+    },
+    "replacedBy": {
+      "value": "Q6761913",
+      "label": "Marian Hobbs"
+    },
+    "statement": "Q7519940$BD751F32-3EA5-4F83-B2A4-EE5B874472FD",
+    "ordinal": "9",
+    "start": "1990-11-02T00:00:00Z",
+    "end": "1999-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q6761913",
+      "label": "Marian Hobbs"
+    },
+    "replaces": {
+      "value": "Q7519940",
+      "label": "Simon Upton"
+    },
+    "replacedBy": {
+      "value": "Q5231322",
+      "label": "David Benson-Pope"
+    },
+    "statement": "Q6761913$5908F5BA-08FA-426E-AE01-082984B6CB86",
+    "ordinal": "10",
+    "start": "1999-12-10T00:00:00Z",
+    "end": "2005-10-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5231322",
+      "label": "David Benson-Pope"
+    },
+    "replaces": {
+      "value": "Q6761913",
+      "label": "Marian Hobbs"
+    },
+    "replacedBy": {
+      "value": "Q15196319",
+      "label": "David Parker"
+    },
+    "statement": "Q5231322$E7E385DA-15AD-425E-B91D-8DB859222581",
+    "ordinal": "11",
+    "start": "2005-10-19T00:00:00Z",
+    "end": "2007-07-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15196319",
+      "label": "David Parker"
+    },
+    "replaces": {
+      "value": "Q5231322",
+      "label": "David Benson-Pope"
+    },
+    "replacedBy": {
+      "value": "Q7839303",
+      "label": "Trevor Mallard"
+    },
+    "statement": "Q15196319$E8A668DF-C6C9-48B2-B227-6B3A236B61AE",
+    "start": "2007-07-27T00:00:00Z",
+    "end": "2007-10-31T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q7839303",
+      "label": "Trevor Mallard"
+    },
+    "replaces": {
+      "value": "Q15196319",
+      "label": "David Parker"
+    },
+    "replacedBy": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "statement": "Q7839303$47E24F29-FC2A-4992-B331-35C1FAACADCF",
+    "ordinal": "12",
+    "start": "2007-10-31T00:00:00Z",
+    "end": "2008-11-19T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "replaces": {
+      "value": "Q7839303",
+      "label": "Trevor Mallard"
+    },
+    "replacedBy": {
+      "value": "Q5106549",
+      "label": "Chris Finlayson"
+    },
+    "statement": "Q976339$E8EF9CCE-7757-43EF-8930-2DFF94814438",
+    "ordinal": "13",
+    "start": "2008-11-19T00:00:00Z",
+    "end": "2012-03-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q5106549",
+      "label": "Chris Finlayson"
+    },
+    "replaces": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "replacedBy": {
+      "value": "Q4451142",
+      "label": "Amy Adams"
+    },
+    "statement": "Q5106549$856DFB80-DBDB-4F10-A550-BA33DF692354",
+    "start": "2012-03-21T00:00:00Z",
+    "end": "2012-04-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4451142",
+      "label": "Amy Adams"
+    },
+    "replaces": {
+      "value": "Q5106549",
+      "label": "Chris Finlayson"
+    },
+    "replacedBy": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "statement": "Q4451142$A96857C1-F794-4D71-B703-7B0622DCA19F",
+    "ordinal": "14",
+    "start": "2012-04-03T00:00:00Z",
+    "end": "2014-10-06T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "replaces": {
+      "value": "Q4451142",
+      "label": "Amy Adams"
+    },
+    "replacedBy": {
+      "value": "Q15196319",
+      "label": "David Parker"
+    },
+    "statement": "Q976339$F5BF3F72-629C-415C-B47B-AB73B7BFDF75",
+    "start": "2014-10-08T00:00:00Z",
+    "end": "2017-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q15196319",
+      "label": "David Parker"
+    },
+    "replaces": {
+      "value": "Q976339",
+      "label": "Nick Smith"
+    },
+    "statement": "Q15196319$87DCCED8-1848-4D30-835D-907C058A064E",
+    "ordinal": "15",
+    "start": "2017-10-26T00:00:00Z"
+  }
+]
